@@ -1,0 +1,17 @@
+<svg width="720" height="240" viewBox="0 0 720 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Transparent background -->
+  <g transform="translate(0,0)">
+    <!-- Monogram -->
+    <g transform="translate(12, -8)" fill="none" stroke="#fcfaf6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M128,72c-22,-20 -72,-20 -92,18c-20,38 10,84 58,86c26,1 48,-9 60,-28" />
+      <path d="M112,140h44" />
+      <path d="M200,94c-16,-22 -64,-22 -78,2c-16,26 22,36 42,40c20,4 48,12 36,34c-14,24 -66,22 -88,6" />
+    </g>
+
+    <!-- Wordmark -->
+    <g fill="#fcfaf6">
+      <text x="248" y="108" font-family="Cormorant Garamond, serif" font-weight="700" font-size="64">Giordano</text>
+      <text x="248" y="168" font-family="Cormorant Garamond, serif" font-weight="700" font-size="64">Specchia</text>
+        </g>
+  </g>
+</svg>

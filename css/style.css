@@ -532,7 +532,7 @@ body {
   font-size: 1.125rem
 }
 .news {
-  background: url(img/main/tangle-red-round.svg) center no-repeat;
+  background: url('../img/main/tangle-red-round.svg') center no-repeat;
   background-size: cover;
   background-size: 80%
 }
@@ -989,4 +989,5 @@ body {
   .footer__social .social__link:hover {
     color: #1d4e8a
   }
+
 }

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16">
+  <g id="arrow-right" transform="translate(-5.625 -10.625)">
+    <path id="Path_250" data-name="Path 250" d="M17.146,10.851a.766.766,0,0,1,1.088,0L25.4,18.078a.778.778,0,0,1,0,1.094L18.233,26.4a.766.766,0,0,1-1.088,0,.778.778,0,0,1,0-1.095L23,19.4l-16.605.012a.774.774,0,0,1,0-1.548L23,17.852l-5.858-5.906A.778.778,0,0,1,17.146,10.851Z" transform="translate(0 0)" fill="#c45358" fill-rule="evenodd"/>
+  </g>
+</svg>
